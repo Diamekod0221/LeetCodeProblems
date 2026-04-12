@@ -21,19 +21,19 @@ public class GameOfLife {
     // where births and deaths occur simultaneously. Given the current state of the m x n grid board, return the next state.
 
 
-        public void gameOfLife(int[][] board) {
-            int[][] currentSub = new int[3][3];
-
-            for(int i = 0; i < board.length; i++){
-                for(int j = 0; j < board[i].length; j++){
-                    if(i == 0){
-                        if(j ==0){
-                            currentSub = Arrays.copyOf()
-                        }
-                    }
-                }
-            }
-
-        }
+//        public void gameOfLife(int[][] board) {
+//            int[][] currentSub = new int[3][3];
+//
+//            for(int i = 0; i < board.length; i++){
+//                for(int j = 0; j < board[i].length; j++){
+//                    if(i == 0){
+//                        if(j ==0){
+//                            currentSub = Arrays.copyOf()
+//                        }
+//                    }
+//                }
+//            }
+//
+//        }
 
 }
