@@ -51,8 +51,6 @@ object BinaryTreeInorderTraversal {
     }
     result.toList
   }
-
-
 }
 
 class BinaryTreeSpec extends AnyFlatSpec {
