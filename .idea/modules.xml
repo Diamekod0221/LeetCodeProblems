@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/leetcodeproblems.leetcodeproblems-build.iml" filepath="$PROJECT_DIR$/.idea/modules/leetcodeproblems.leetcodeproblems-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/LeetCodeProblems/leetcodeproblems.main.iml" filepath="$PROJECT_DIR$/.idea/modules/LeetCodeProblems/leetcodeproblems.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/LeetCodeProblems/leetcodeproblems.test.iml" filepath="$PROJECT_DIR$/.idea/modules/LeetCodeProblems/leetcodeproblems.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/python/python.iml" filepath="$PROJECT_DIR$/src/main/python/python.iml" />
     </modules>
   </component>
 </project>

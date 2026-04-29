@@ -7,6 +7,7 @@
     <output-test url="file://$MODULE_DIR$/../../../target/scala-2.12/test-classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../src/test/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../../src/test/scala" isTestSource="true" />
     </content>
     <content url="file://$MODULE_DIR$/../../../target/scala-2.12/resource_managed/test" />
@@ -18,6 +19,7 @@
     <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.18:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scalatest:scalatest_2.12:3.2.19:jar" level="project" />
     <orderEntry type="library" name="sbt: junit:junit:4.13.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-parser_2.12:0.14.15:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scalatest:scalatest-core_2.12:3.2.19:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scalatest:scalatest-featurespec_2.12:3.2.19:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scalatest:scalatest-flatspec_2.12:3.2.19:jar" level="project" />
@@ -33,9 +35,15 @@
     <orderEntry type="library" name="sbt: org.scalatest:scalatest-mustmatchers_2.12:3.2.19:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scala-lang:scala-reflect:2.12.18:jar" level="project" />
     <orderEntry type="library" name="sbt: org.hamcrest:hamcrest-core:1.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-jawn_2.12:0.14.15:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-core_2.12:0.14.15:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scalatest:scalatest-compatible:3.2.19:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scalactic:scalactic_2.12:3.2.19:jar" level="project" />
     <orderEntry type="library" name="sbt: org.scala-lang.modules:scala-xml_2.12:2.1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:jawn-parser_2.12:1.6.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: io.circe:circe-numbers_2.12:0.14.15:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-core_2.12:2.13.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.typelevel:cats-kernel_2.12:2.13.0:jar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="leetcodeproblems.main" />
 </module>
