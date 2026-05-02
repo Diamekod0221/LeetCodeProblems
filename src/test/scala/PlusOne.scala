@@ -1,4 +1,3 @@
-import scala.+:
 import scala.annotation.tailrec
 //You are given a large integer represented as an integer array digits, where
 // each digits[i] is the ith digit of the integer. The digits are ordered from most significant
